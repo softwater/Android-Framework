@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">framework</string>
+  <string name="no_data">没有数据</string>
+  <string name="pull_to_refresh_no_more">没有更多了…</string>
+</resources>
